@@ -1,1 +1,1 @@
-# MLwTF_workshop
+# Deep Generative model for drug discovery
